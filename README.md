@@ -1,5 +1,4 @@
-# Hiding information in images using steganography technique LSB
-The Python program based on steganography method for hiding information in images using the Least Significant Bit (LSB) method.
+# Hiding information in images using the LSB technique
 
 ## Requirements
 - [Python 3](https://www.python.org/)
